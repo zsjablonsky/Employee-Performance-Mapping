@@ -51,8 +51,11 @@ The database consists of three core tables:
 ```
 scienceqtech-employee-analysis/
 ├── data/
-│   └── sample_data.csv
+│   └── data_science_team.csv
+│   └── proj_table.csv
+│   └── emp_record_tabele.csv
 ├── queries/
+│   ├── database_creation.sql
 │   ├── employee_details.sql
 │   ├── performance_mapping.sql
 │   ├── salary_analysis.sql
