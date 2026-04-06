@@ -1,4 +1,4 @@
-# Employee-Performance-Mapping-
+# Employee-Performance-Mapping
 A career simulation to showcase SQL databasing and analysis skills.
 
 # 🧬 ScienceQtech Employee Performance Mapping — SQL
