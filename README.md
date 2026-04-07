@@ -70,7 +70,7 @@ scienceqtech-employee-analysis/
 │   ├── standard_check.sql
 │   └── ten_year_exp.sql
 ├── schema.sql
-├── .gitignore
+├── Results.pdf
 └── README.md
 ```
 
