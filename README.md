@@ -91,7 +91,7 @@ scienceqtech-employee-analysis/
 mysql -u root -p < schema.sql
 
 -- 2. Run any analysis
-mysql -u root -p scienceqtech_db < queries/performance_mapping.sql
+mysql -u root -p employee_db < queries/employee_details.sql
 ```
 
 ---
