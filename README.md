@@ -91,7 +91,7 @@ mysql -u root -p scienceqtech_db < queries/performance_mapping.sql
 
 - All employees met the requirements of their position
 - Bonus costs were calculated as a percentage of salary weighted by performance rating
-- Several mid-level roles showed salary misalignment against the org's defined pay bands
+- Salaries across different countries were assesed to ensure proper compensation was provided
 
 ---
 
