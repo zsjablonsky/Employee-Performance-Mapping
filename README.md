@@ -91,7 +91,7 @@ scienceqtech-employee-analysis/
 mysql -u root -p < schema.sql
 
 -- 2. Run any analysis
-mysql -u root -p employee_db < queries/employee_details.sql
+mysql -u root -p employees_db < queries/employee_details.sql
 ```
 
 ---
