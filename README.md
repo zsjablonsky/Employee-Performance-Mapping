@@ -55,12 +55,20 @@ scienceqtech-employee-analysis/
 │   └── proj_table.csv
 │   └── emp_record_tabele.csv
 ├── queries/
-│   ├── database_creation.sql
 │   ├── employee_details.sql
-│   ├── performance_mapping.sql
-│   ├── salary_analysis.sql
-│   ├── bonus_calculation.sql
-│   └── training_requirements.sql
+│   ├── employee_bonus.sql
+│   ├── employee_performance_tables.sql
+│   ├── employee_performance_scores.sql
+│   ├── experience_rank.sql
+│   ├── finance_employees.sql
+│   ├── first_name_index.sql
+│   ├── healthcare_finance.sql
+│   ├── management.sql
+│   ├── max_min_salary.sql
+│   ├── salary_by_country.sql
+│   ├── salary_distribution_country.sql
+│   ├── standard_check.sql
+│   └── ten_year_exp.sql
 ├── schema.sql
 ├── .gitignore
 └── README.md
