@@ -69,10 +69,10 @@ scienceqtech-employee-analysis/
 │   ├── salary_distribution_country.sql
 │   ├── standard_check.sql
 │   └── ten_year_exp.sql
-├── schema.sql
+├── README.md
 ├── Results.pdf
-├── .gitignore
-└── README.md
+├── gitignore
+└── schema.sql
 ```
 
 ---
