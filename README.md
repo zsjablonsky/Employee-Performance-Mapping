@@ -7,9 +7,7 @@ A career simulation to showcase SQL databasing and analysis skills.
 
 ## 📌 Project Overview
 
-ScienceQtech is a Data Science startup operating across high-impact domains including fraud detection, market basket analysis, self-driving vehicles, supply chain optimization, algorithmic early detection of lung cancer, customer sentiment analysis, and drug discovery.
-
-This project involves designing and querying an employee database to support the HR department in performance mapping, compensation analysis, and training planning — enabling data-driven decisions across the organization.
+Using the MySQL Workbench, I designed and queried an employee database to support the HR department in performance mapping, compensation analysis, and training planning — enabling data-driven decisions across the organization.  
 
 ---
 
