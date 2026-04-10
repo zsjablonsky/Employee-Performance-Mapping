@@ -7,7 +7,7 @@ A career simulation to showcase SQL databasing and analysis skills.
 
 ## 📌 Project Overview
 
-Using the MySQL Workbench, I designed and queried an employee database to support the HR department in performance mapping, compensation analysis, and training planning — enabling data-driven decisions across the organization.  
+Using MySQL Workbench, I designed and queried an employee database to support the HR department in performance mapping, compensation analysis, and training planning — enabling data-driven decisions across the organization.  
 
 ---
 
