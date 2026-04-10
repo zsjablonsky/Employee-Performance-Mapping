@@ -1,7 +1,7 @@
 # Employee-Performance-Mapping
 A career simulation to showcase SQL databasing and analysis skills.
 
-# 🧬 ScienceQtech Employee Performance Mapping — SQL
+# Employee Performance Mapping — SQL
 
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue) ![Domain](https://img.shields.io/badge/Domain-Data%20Science%20HR%20Analytics-green) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
