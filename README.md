@@ -1,13 +1,11 @@
-# Employee-Performance-Mapping
+# Employee-Performance-Mapping - SQL
 A career simulation to showcase SQL databasing and analysis skills.
-
-# Employee Performance Mapping — SQL
 
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue) ![Domain](https://img.shields.io/badge/Domain-Data%20Science%20HR%20Analytics-green) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ## 📌 Project Overview
 
-Using MySQL Workbench, I designed and queried an employee database to support the HR department in performance mapping, compensation analysis, and training planning — enabling data-driven decisions across the organization.  
+Using MySQL Workbench, I designed and queried an employee database using fake employee data to support the HR department in performance mapping, compensation analysis, and training planning — enabling data-driven decisions across the organization.  
 
 ---
 
