@@ -20,6 +20,8 @@ Key skills strengthened:
 - Applying the full data analytics pipeline: explore → clean → analyze → visualize
 - Translating business questions into structured analytical approaches
 
+---
+
 ## 🎯 Objectives
 
 - Analyze employee records and extract data based on department, role, and project assignment
