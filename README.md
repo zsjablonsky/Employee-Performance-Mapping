@@ -5,9 +5,20 @@ A career simulation to showcase SQL databasing and analysis skills.
 
 ## 📌 Project Overview
 
-Using MySQL Workbench, I designed and queried an employee database using fake employee data to support the HR department in performance mapping, compensation analysis, and training planning —  mirroring real-world workforce analytics workflows in HR systems.
+Using MySQL Workbench, I designed and queried an employee database using synthetic HR data to support performance mapping, compensation analysis, and training planning. The project mirrors real-world workforce analytics workflows, simulating the kind of data infrastructure an HR department would rely on for evidence-based decision-making.
 
 ---
+
+## 🧠 Learning & Takeaways
+
+This project solidified my understanding of advanced SQL, covering joins, subqueries, views, indexes, window functions, aggregate functions, and stored procedures in a practical, hands-on context.
+
+Beyond SQL, this project reinforced the end-to-end data analytics workflow — from raw data exploration to structured analysis and insight generation. Working through each stage independently built confidence in approaching unfamiliar datasets systematically and efficiently.
+
+Key skills strengthened:
+- Designing and optimizing complex, multi-layered SQL queries
+- Applying the full data analytics pipeline: explore → clean → analyze → visualize
+- Translating business questions into structured analytical approaches
 
 ## 🎯 Objectives
 
